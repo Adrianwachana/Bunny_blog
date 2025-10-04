@@ -1,4 +1,8 @@
-git init# Logs
+# Environment variables
+.env
+.env.*.local
+
+# Logs
 logs
 *.log
 npm-debug.log*
@@ -7,6 +11,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Node modules and build
 node_modules
 dist
 dist-ssr
