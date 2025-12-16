@@ -1,5 +1,13 @@
 {
   "dependencies": {
-    "imagekitio-react": "^4.3.0"
+    "@clerk/express": "^1.7.42",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "imagekit": "^6.0.0",
+    "imagekitio-react": "^4.3.0",
+    "micro": "^10.0.1",
+    "mongoose": "^8.19.2",
+    "svix": "^1.80.0"
   }
 }
